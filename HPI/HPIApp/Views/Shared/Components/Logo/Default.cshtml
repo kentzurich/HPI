@@ -1,0 +1,9 @@
+﻿@model CustomerIndexVM
+
+@if(Model.logo is not null)
+{
+    <h1 class="logo me-auto"><a asp-area="Customer" asp-controller="Home" asp-action="Index">@Model.logo.textLogo</a></h1>
+    <!-- Uncomment below if you prefer to use an image logo -->
+    @*<a href="index.html" class="logo me-auto"><img src="img/logo.jpg" alt="" class="img-fluid"></a>*@
+}
+

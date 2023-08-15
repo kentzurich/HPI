@@ -1,0 +1,2517 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\HPIApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\HPIApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\css\\admin.css",
+      "PackagePath": "staticwebassets\\css\\admin.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\css\\customer.css",
+      "PackagePath": "staticwebassets\\css\\customer.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\img\\aboutus\\about.jpg",
+      "PackagePath": "staticwebassets\\img\\aboutus\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\img\\admin\\Profile.png",
+      "PackagePath": "staticwebassets\\img\\admin\\Profile.png"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\img\\admin\\not-found.svg",
+      "PackagePath": "staticwebassets\\img\\admin\\not-found.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\img\\customer\\nyan-cat.gif",
+      "PackagePath": "staticwebassets\\img\\customer\\nyan-cat.gif"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\admin.js",
+      "PackagePath": "staticwebassets\\js\\admin\\admin.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\adminuser.js",
+      "PackagePath": "staticwebassets\\js\\admin\\adminuser.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\branch.js",
+      "PackagePath": "staticwebassets\\js\\admin\\branch.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\class.js",
+      "PackagePath": "staticwebassets\\js\\admin\\class.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\contactsection.js",
+      "PackagePath": "staticwebassets\\js\\admin\\contactsection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\faq.js",
+      "PackagePath": "staticwebassets\\js\\admin\\faq.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\gallerysection.js",
+      "PackagePath": "staticwebassets\\js\\admin\\gallerysection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\gender.js",
+      "PackagePath": "staticwebassets\\js\\admin\\gender.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\notification.js",
+      "PackagePath": "staticwebassets\\js\\admin\\notification.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\paymentmethod.js",
+      "PackagePath": "staticwebassets\\js\\admin\\paymentmethod.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\registrationtransaction.js",
+      "PackagePath": "staticwebassets\\js\\admin\\registrationtransaction.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\religion.js",
+      "PackagePath": "staticwebassets\\js\\admin\\religion.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\testimonialsection.js",
+      "PackagePath": "staticwebassets\\js\\admin\\testimonialsection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\admin\\user.js",
+      "PackagePath": "staticwebassets\\js\\admin\\user.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\customer.js",
+      "PackagePath": "staticwebassets\\js\\customer.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\README.md",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\browser\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\browser\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\browser\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\AbortController.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\AbortController.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\AbortController.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Errors.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Errors.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Errors.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HeaderNames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HttpConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HubConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HubConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HubConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ILogger.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ILogger.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ILogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ITransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ITransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ITransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Loggers.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Polyfills.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Stream.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Stream.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Stream.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Subject.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Subject.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Subject.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Utils.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Utils.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\Utils.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\Utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\browser-index.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\index.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\cjs\\index.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\cjs\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\AbortController.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\AbortController.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\AbortController.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\AbortController.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\AbortController.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\DefaultReconnectPolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Errors.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Errors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Errors.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Errors.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Errors.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Errors.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\FetchHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HandshakeProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HeaderNames.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HttpConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\HubConnectionBuilder.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IConnection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IConnection.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IConnection.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IConnection.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IConnection.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHttpConnectionOptions.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IHubProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ILogger.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ILogger.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ILogger.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ILogger.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ILogger.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\IRetryPolicy.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ITransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ITransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ITransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ITransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ITransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\JsonHubProtocol.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Loggers.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Loggers.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Loggers.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Loggers.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Loggers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\LongPollingTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Polyfills.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\ServerSentEventsTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Stream.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Stream.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Stream.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Stream.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Stream.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Stream.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Subject.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Subject.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Subject.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Subject.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Subject.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Subject.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\TextMessageFormat.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Utils.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Utils.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Utils.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\Utils.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\Utils.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\WebSocketTransport.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\XhrHttpClient.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\browser-index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\browser-index.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\browser-index.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\browser-index.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\browser-index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\index.d.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\index.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\index.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\esm\\index.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\esm\\index.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\webworker\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\webworker\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\webworker\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\webworker\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\webworker\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\webworker\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\dist\\webworker\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\package-lock.json",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\package-lock.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\package.json",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\AbortController.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\AbortController.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\DefaultHttpClient.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\DefaultHttpClient.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\DefaultReconnectPolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Errors.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Errors.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\FetchHttpClient.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\FetchHttpClient.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HandshakeProtocol.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HandshakeProtocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HeaderNames.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HeaderNames.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HttpClient.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HttpClient.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HttpConnection.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HttpConnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HubConnection.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HubConnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\HubConnectionBuilder.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\HubConnectionBuilder.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\IConnection.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\IConnection.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\IHttpConnectionOptions.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\IHubProtocol.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\IHubProtocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\ILogger.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\ILogger.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\IRetryPolicy.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\IRetryPolicy.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\ITransport.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\ITransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\JsonHubProtocol.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\JsonHubProtocol.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Loggers.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Loggers.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\LongPollingTransport.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\LongPollingTransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Polyfills.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Polyfills.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\ServerSentEventsTransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Stream.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Stream.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Subject.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Subject.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\TextMessageFormat.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\TextMessageFormat.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\Utils.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\Utils.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\WebSocketTransport.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\WebSocketTransport.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\XhrHttpClient.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\XhrHttpClient.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\browser-index.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\browser-index.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\index.ts",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\index.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\microsoft\\signalr\\src\\third-party-notices.txt",
+      "PackagePath": "staticwebassets\\js\\microsoft\\signalr\\src\\third-party-notices.txt"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\signalr.js",
+      "PackagePath": "staticwebassets\\js\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\signalr.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\signalr.min.js",
+      "PackagePath": "staticwebassets\\js\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\js\\signalr.min.js.map",
+      "PackagePath": "staticwebassets\\js\\signalr.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.amd.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.amd.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.common.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.esm.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\apexcharts.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\apexcharts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ar.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ar.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ca.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ca.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\cs.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\cs.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\de.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\de.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\el.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\el.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\en.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\en.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\es.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\es.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\et.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\et.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\fa.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\fa.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\fi.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\fi.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\fr.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\fr.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\he.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\he.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\hi.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\hi.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\hr.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\hr.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\hu.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\hu.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\hy.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\hy.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\id.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\id.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\it.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\it.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ja.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ja.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ka.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ka.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ko.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ko.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\lt.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\lt.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\lv.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\lv.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\nb.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\nb.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\nl.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\nl.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\pl.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\pl.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\pt-br.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\pt-br.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\pt.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\pt.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\rs.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\rs.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ru.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ru.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\se.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\se.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\sk.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\sk.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\sl.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\sl.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\sq.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\sq.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\th.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\th.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\tr.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\tr.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\ua.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\ua.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\zh-cn.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\zh-cn.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\apexcharts\\locales\\zh-tw.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\apexcharts\\locales\\zh-tw.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\lib\\admin\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.cjs",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.cjs"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.umd.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.umd.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chart.umd.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chart.umd.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chunks\\helpers.segment.cjs",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chunks\\helpers.segment.cjs"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chunks\\helpers.segment.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chunks\\helpers.segment.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chunks\\helpers.segment.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chunks\\helpers.segment.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\chunks\\helpers.segment.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\chunks\\helpers.segment.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.bar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.bubble.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.bubble.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.doughnut.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.doughnut.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.line.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.pie.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.pie.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.polarArea.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.polarArea.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.radar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.radar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\controller.scatter.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\controller.scatter.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\controllers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\controllers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.adapters.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.adapters.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.animation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.animations.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.animations.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.animations.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.animations.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.animator.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.animator.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.config.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.controller.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.controller.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.datasetController.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.datasetController.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.element.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.element.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.interaction.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.interaction.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.layouts.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.layouts.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.layouts.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.layouts.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.plugins.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.plugins.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.registry.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.registry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.scale.autoskip.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.scale.autoskip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.scale.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.scale.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.scale.defaults.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.scale.defaults.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.ticks.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.ticks.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\core.typedRegistry.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\core.typedRegistry.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\core\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\core\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\elements\\element.arc.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\elements\\element.arc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\elements\\element.bar.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\elements\\element.bar.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\elements\\element.line.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\elements\\element.line.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\elements\\element.point.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\elements\\element.point.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\elements\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\elements\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers.cjs",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers.cjs"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers.cjs.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers.cjs.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.collection.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.collection.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.color.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.config.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.config.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.core.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.core.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.curve.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.curve.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.dom.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.easing.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.easing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.extras.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.extras.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.interpolation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.interpolation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.intl.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.intl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.math.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.math.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.options.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.rtl.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.rtl.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\helpers\\types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\helpers\\types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\index.umd.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\index.umd.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\platform\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\platform\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\platform\\platform.base.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\platform\\platform.base.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\platform\\platform.basic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\platform\\platform.basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\platform\\platform.dom.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\platform\\platform.dom.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.colors.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.colors.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.decimation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.decimation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.drawing.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.helper.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.options.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.target.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\filler.target.stack.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.filler\\simpleArc.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.legend.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.legend.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.subtitle.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.subtitle.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.title.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.title.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\plugins\\plugin.tooltip.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\plugins\\plugin.tooltip.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.category.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.category.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.linear.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.linear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.linearbase.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.linearbase.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.logarithmic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.logarithmic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.radialLinear.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.radialLinear.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.time.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.time.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\scales\\scale.timeseries.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\scales\\scale.timeseries.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\animation.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\animation.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\basic.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\basic.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\color.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\color.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\geometric.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\geometric.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\helpers\\helpers.canvas.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\helpers\\helpers.canvas.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\helpers\\helpers.segment.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\helpers\\helpers.segment.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\helpers\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\helpers\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\index.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\index.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\layout.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\layout.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\chart.js\\types\\utils.d.ts",
+      "PackagePath": "staticwebassets\\lib\\admin\\chart.js\\types\\utils.d.ts"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.common.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.common.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.common.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.common.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.common.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.common.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.esm.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.simple.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.simple.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.simple.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.simple.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\echarts.simple.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\echarts.simple.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\bmap.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\bmap.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\bmap.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\bmap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\bmap.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\bmap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\dataTool.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\dataTool.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\dataTool.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\dataTool.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\echarts\\extension\\dataTool.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\echarts\\extension\\dataTool.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.bubble.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.bubble.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.core.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.core.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.core.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.core.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.min.js",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\quill\\quill.snow.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\quill\\quill.snow.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\admin\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\lib\\admin\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v4-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v4-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v4-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v4-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v5-font-face.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v5-font-face.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\css\\v5-font-face.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\css\\v5-font-face.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-v4compatibility.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\fontawesome-free\\webfonts\\fa-v4compatibility.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\purecounter\\purecounter_vanilla.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\purecounter\\purecounter_vanilla.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\purecounter\\purecounter_vanilla.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\purecounter\\purecounter_vanilla.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.eot",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.eot"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.less",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.less"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.svg",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.symbol.svg",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.symbol.svg"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.ttf",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.woff",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.woff"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\remixicon\\remixicon.woff2",
+      "PackagePath": "staticwebassets\\lib\\customer\\remixicon\\remixicon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\lib\\customer\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\customer\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\customer\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\customer\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\kentz\\Documents\\GitHub\\HPI\\HPI\\HPIApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.HPIApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.HPIApp.props",
+      "PackagePath": "build\\HPIApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.HPIApp.props",
+      "PackagePath": "buildMultiTargeting\\HPIApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.HPIApp.props",
+      "PackagePath": "buildTransitive\\HPIApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

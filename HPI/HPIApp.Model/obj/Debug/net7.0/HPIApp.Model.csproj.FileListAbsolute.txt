@@ -1,0 +1,12 @@
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\bin\Debug\net7.0\HPIApp.Model.deps.json
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\bin\Debug\net7.0\HPIApp.Model.dll
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\bin\Debug\net7.0\HPIApp.Model.pdb
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.csproj.AssemblyReference.cache
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.AssemblyInfoInputs.cache
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.AssemblyInfo.cs
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.csproj.CoreCompileInputs.cache
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.dll
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\refint\HPIApp.Model.dll
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\HPIApp.Model.pdb
+C:\Users\kentz\Documents\GitHub\HPI\HPI\HPIApp.Model\obj\Debug\net7.0\ref\HPIApp.Model.dll

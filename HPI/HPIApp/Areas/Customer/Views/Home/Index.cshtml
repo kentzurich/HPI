@@ -1,0 +1,37 @@
+﻿<partial name="Customer/_WhyUsLayout" />
+
+<partial name="Customer/_AboutUsLayout" />
+
+<partial name="Customer/_EventsLayout" />
+
+<partial name="Customer/_FAQLayout" />
+
+<partial name="Customer/_TestimonialLayout" />
+
+<partial name="Customer/_GalleryLayout" />
+
+<partial name="Customer/_ContactLayout" />
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"></partial>
+    <script src="/js/signalr.js"></script>
+    <script>
+        var connectionNotification = new signalR
+                .HubConnectionBuilder()
+                .withUrl("/hubs/notification", signalR.HttpTransportType.ServerSentEvents)
+                .build();
+
+        connectionNotification.start();
+
+        function SendButton() {
+            var name = document.getElementById("name").value;
+            var email = document.getElementById("email").value;
+            var subject = document.getElementById("subject").value;
+            var message = document.getElementById("contactSection_Message").value;
+
+            if (name != "" && email != "" && subject != "" && message != "")
+                connectionNotification.send("SendMessage", message);
+        }
+    </script>
+}

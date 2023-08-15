@@ -1,0 +1,38 @@
+﻿@model CustomerIndexVM
+
+@if (Model.testimonialSection.Count() > 0)
+{
+    <!-- ======= Testimonials Section ======= -->
+    <section id="testimonials" class="testimonials">
+        <div class="container">
+
+            <div class="testimonials-slider swiper" data-aos="fade-up" data-aos-delay="100">
+                <div class="swiper-wrapper">
+
+                    @foreach (var testimony in Model.testimonialSection)
+                    {
+                        <div class="swiper-slide">
+                            <div class="testimonial-wrap">
+                                <div class="testimonial-item">
+                                    <img src="@testimony.ApplicationUser.MemberPhotoUrl" class="testimonial-img" alt="">
+                                    <h3>@testimony.ApplicationUser.FirstName @testimony.ApplicationUser.LastName</h3>
+                                    <p>
+                                        <i class="bx bxs-quote-alt-left quote-icon-left"></i>
+                                        @testimony.Testimony
+                                        <i class="bx bxs-quote-alt-right quote-icon-right"></i>
+                                    </p>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- End testimonial item -->
+                    }
+
+                </div>
+                <div class="swiper-pagination"></div>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- End Testimonials Section -->
+}

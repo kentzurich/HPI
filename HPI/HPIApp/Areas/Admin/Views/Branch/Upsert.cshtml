@@ -1,0 +1,111 @@
+﻿@model Branch
+
+<partial name="Admin/_AdminSidebar" />
+
+<div class="pagetitle">
+    <h1>Branch</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Dashboard" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Branch" asp-action="Index">Branch</a></li>
+            <li class="breadcrumb-item">@(Model.Id == 0 ? "Create" : "Edit") Branch</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow border-0 w-75 top-50 start-50 translate-middle">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <h5 class="card-title">@(Model.Id == 0 ? "Create" : "Edit") Branch</h5>
+                        </div>
+                    </div>
+
+                    <section class="section">
+                        <form method="post" asp-action="Upsert">
+                            <input asp-for="Id" hidden />
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="Name" class="form-control border-0 shadow" placeholder="Enter name" />
+                                        <label asp-for="Name" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="Name" class="text-danger"></span>
+                                    </div>
+                                    <div class="row pt-2">
+                                        <div class="col-6 col-md-3">
+                                            @if (Model.Id == 0)
+                                            {
+                                                <button type="submit" class="btn btn-primary form-control">
+                                                    <i class="bi bi-plus-circle"></i> &nbspCreate
+                                                </button>
+                                            }
+                                            else
+                                            {
+                                                <button type="submit" class="btn btn-primary form-control">
+                                                    <i class="bi bi-plus-circle"></i> &nbspUpdate
+                                                </button>
+                                            }
+                                        </div>
+                                        <div class="col-6 col-md-3">
+                                            <a asp-controller="Branch" asp-action="Index" class="btn btn-outline-primary form-control">
+                                                <i class="bi bi-backspace"></i> &nbspBack
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@if (Model.Id != 0)
+{
+    <section class="section">
+        <div class="row">
+            <div class="col-lg-12">
+                <div class="card shadow border-0 mt-4">
+                    <div class="card-body">
+                        <div class="row">
+                            <div class="col-6">
+                                <h5 class="card-title">Class List</h5>
+                            </div>
+
+                            <div class="col-6 text-end">
+                                <a asp-controller="Class" asp-action="Create" asp-route-Id="@Model.Id" class="btn btn-primary mt-3">
+                                    <i class="bi bi-plus-circle"></i> &nbspAdd New Class
+                                </a>
+                            </div>
+                        </div>
+                        <br></br>
+
+                        <table id="tblClass" class="table table-hover" style="width:100%">
+                            <thead>
+                                <tr>
+                                    <th scope="col">Id</th>
+                                    <th scope="col">Name</th>
+                                    <th scope="col">Slot</th>
+                                    <th scope="col">Branch Name</th>
+                                    <th scope="col"></th>
+                                </tr>
+                            </thead>
+                            <tbody></tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+}
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"></partial>
+    <script src="~/js/admin/class.js"></script>
+}

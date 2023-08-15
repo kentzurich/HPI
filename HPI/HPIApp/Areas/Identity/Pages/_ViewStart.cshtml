@@ -1,0 +1,9 @@
+﻿@if(User.IsInRole(StaticDetails.ROLE_ADMIN))
+{
+    Layout = "/Views/Shared/Admin/_AdminLayout.cshtml";
+}
+else
+{
+    Layout = "/Views/Shared/Customer/_InnerLayout.cshtml";
+}
+

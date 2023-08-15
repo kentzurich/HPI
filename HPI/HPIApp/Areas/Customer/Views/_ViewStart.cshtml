@@ -1,0 +1,10 @@
+﻿@if (User.IsInRole(StaticDetails.ROLE_CUSTOMER))
+{
+    Layout = "Customer/_InnerLayout";
+}
+else
+{
+    Layout = "Customer/_Layout";
+}
+
+

@@ -1,0 +1,29 @@
+﻿@model CustomerIndexVM
+
+<!-- ======= Top Bar ======= -->
+<div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-between">
+        <div class="contact-info d-flex align-items-center">
+            <i class="bi bi-envelope"></i> <a href="mailto:@Model.companyDetails.Email">@Model.companyDetails.Email</a>
+            <i class="bi bi-phone"></i> @Model.companyDetails.PhoneNo
+        </div>
+        <div class="d-none d-lg-flex social-links align-items-center">
+            @if (!String.IsNullOrEmpty(Model.companyDetails.twitterUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.twitterUrl" class="twitter"><i class="bi bi-twitter"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.facebookUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.facebookUrl" class="facebook"><i class="bi bi-facebook"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.instagramUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.instagramUrl" class="instagram"><i class="bi bi-instagram"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.linkedinUrl))
+            {
+                <a target="_blank"  href="@Model.companyDetails.linkedinUrl" class="linkedin"><i class="bi bi-linkedin"></i></a>
+            }
+        </div>
+    </div>
+</div>

@@ -1,0 +1,134 @@
+﻿@{
+    var _AdminSidebar = @ViewData["_AdminSidebar"] as _AdminSidebar;
+}
+
+<!-- ======= Sidebar ======= -->
+<aside id="sidebar" class="sidebar">
+
+    <ul class="sidebar-nav" id="sidebar-nav">
+
+        <li class="nav-item">
+            <a class="nav-link @(_AdminSidebar.view.Equals("dashboard") ? string.Empty : "collapsed")" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">
+                <i class="bi bi-grid"></i>
+                <span>Dashboard</span>
+            </a>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(_AdminSidebar.navItem.Equals("contentManagement") ? string.Empty : "collapsed")" data-bs-target="#contentManagement-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-menu-button-wide"></i><span>Content Management</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="contentManagement-nav" class="nav-content collapse @(_AdminSidebar.navItem.Equals("contentManagement") ? "show" : string.Empty)" data-bs-parent="#sidebar-nav">
+                
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("branch") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Branch" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Branch</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("paymentMethod") ? "active" : string.Empty)" asp-area="Admin" asp-controller="PaymentMethod" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Payment Method</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("gender") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Gender" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Gender</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("religion") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Religion" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Religion</span>
+                    </a>
+                    
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("logo") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Header" asp-action="UpsertLogo">
+                        <i class="bi bi-circle"></i><span>Logo</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("companyDetails") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Header" asp-action="UpsertCompanyDetails">
+                        <i class="bi bi-circle"></i><span>Company Details</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("heroSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Header" asp-action="UpsertHeroSection">
+                        <i class="bi bi-circle"></i><span>Hero Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("whyussection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="WhyUsSection" asp-action="Upsert">
+                        <i class="bi bi-circle"></i><span>Why Us Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("aboutUsSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="AboutUsSection" asp-action="Upsert">
+                        <i class="bi bi-circle"></i><span>About Us Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("eventSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="EventSection" asp-action="Upsert">
+                        <i class="bi bi-circle"></i><span>Event Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("faqSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="FAQSection" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>FAQ Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("testimonialSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="TestimonialSection" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Testimonial Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("gallerySection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="GallerySection" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Gallery Section</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("contactSection") ? "active" : string.Empty)" asp-area="Admin" asp-controller="ContactSection" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Contact Section</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(_AdminSidebar.navItem.Equals("userManagement") ? string.Empty : "collapsed")" data-bs-target="#userManagement-nav" data-bs-toggle="collapse" href="#">
+                <i class="bi bi-person"></i><span>User Management</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="userManagement-nav" class="nav-content collapse @(_AdminSidebar.navItem.Equals("userManagement") ? "show" : string.Empty)" data-bs-parent="#sidebar-nav">
+                
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("manageRole") ? "active" : string.Empty)" asp-area="Admin" asp-controller="User" asp-action="ManageUser">
+                        <i class="bi bi-circle"></i><span>Manage User</span>
+                    </a>
+                </li>
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("createAdminUser") ? "active" : string.Empty)" asp-area="Admin" asp-controller="User" asp-action="AdminUserList">
+                        <i class="bi bi-circle"></i><span>Create Admin User</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li>
+
+        <li class="nav-item">
+            <a class="nav-link @(_AdminSidebar.navItem.Equals("transaction") ? string.Empty : "collapsed")" data-bs-target="#transaction-nav" data-bs-toggle="collapse" href="#">
+                <i class="bx bx-wallet"></i><span>Transaction</span><i class="bi bi-chevron-down ms-auto"></i>
+            </a>
+            <ul id="transaction-nav" class="nav-content collapse @(_AdminSidebar.navItem.Equals("transaction") ? "show" : string.Empty)" data-bs-parent="#sidebar-nav">
+
+                <li>
+                    <a class="@(_AdminSidebar.view.Equals("registration") ? "active" : string.Empty)" asp-area="Admin" asp-controller="Registration" asp-action="Index">
+                        <i class="bi bi-circle"></i><span>Registration</span>
+                    </a>
+                </li>
+
+            </ul>
+        </li>
+    </ul>
+
+</aside><!-- End Sidebar-->

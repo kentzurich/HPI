@@ -1,0 +1,53 @@
+﻿@if(User.IsInRole(StaticDetails.ROLE_ADMIN))
+{
+    @if (TempData["success"] is not null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.success('@TempData["success"]')
+        </script>
+
+    }
+    @if (TempData["error"] is not null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr.error('@TempData["error"]')
+        </script>
+    }
+}
+else
+{
+    @if (TempData["success"] is not null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+        <script type="text/javascript">
+            Swal.fire({
+                position: 'top-end',
+                icon: 'success',
+                title: '@TempData["success"]',
+                showConfirmButton: false,
+                timer: 1500
+            })
+        </script>
+
+    }
+    @if (TempData["error"] is not null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+        <script type="text/javascript">
+            Swal.fire({
+                position: 'top-end',
+                icon: 'error',
+                title: '@TempData["error"]',
+                showConfirmButton: false,
+                timer: 1500
+            })
+        </script>
+    }
+}
+

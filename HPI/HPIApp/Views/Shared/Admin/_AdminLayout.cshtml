@@ -1,0 +1,53 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8" />
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <title>HIM Plus International</title>
+    <meta content="" name="description">
+    <meta content="" name="keywords">
+
+    @await Component.InvokeAsync("Icon")
+
+    <link href="https://fonts.gstatic.com" rel="preconnect">
+    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Nunito:300,300i,400,400i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
+
+    <link href="/lib/admin/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/lib/admin/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+    <link rel="stylesheet" href="//cdn.datatables.net/1.13.4/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+    <link href="/lib/admin/boxicons/css/boxicons.min.css" rel="stylesheet">
+    <link href="/lib/admin/quill/quill.snow.css" rel="stylesheet">
+    <link href="/lib/admin/quill/quill.bubble.css" rel="stylesheet">
+    <link href="/lib/admin/remixicon/remixicon.css" rel="stylesheet">
+
+    <link href="~/css/admin.css" rel="stylesheet" asp-append-version="true">
+</head>
+
+<body>
+    @await Component.InvokeAsync("HeaderAdmin")
+    
+    <main id="main" class="main">
+        <partial name="_Notification" />
+        @RenderBody()
+    </main>
+
+    @await Component.InvokeAsync("AdminFooter")
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="/lib/admin/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="//cdn.datatables.net/1.13.4/js/jquery.dataTables.min.js"></script>
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
+    <script src="https://cdn.tiny.cloud/1/2qcnjd75e8ueqi2j21t0s9op74u6pfro6jmzv7f9p533es7n/tinymce/6/tinymce.min.js" referrerpolicy="origin"></script>
+
+    <script src="/lib/admin/apexcharts/apexcharts.min.js"></script>
+    <script src="/lib/admin/chart.js/chart.umd.js"></script>
+    <script src="/lib/admin/echarts/echarts.min.js"></script>
+    <script src="/lib/admin/quill/quill.min.js"></script>
+    <script src="~/js/admin/admin.js"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

@@ -1,0 +1,255 @@
+﻿@page
+@using HPIApp.Models;
+@model RegisterModel
+@{
+    ViewData["Title"] = "Register";
+}
+
+@if(User.IsInRole(StaticDetails.ROLE_ADMIN))
+{
+    ViewData["_AdminSidebar"] = new _AdminSidebar { view = "createAdminUser", navItem = "userManagement" };
+    <partial name="Admin/_AdminSidebar" />
+
+    <div class="pagetitle">
+        <h1>Admin Account</h1>
+        <nav>
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Home</a></li>
+                <li class="breadcrumb-item"><a asp-area="Admin" asp-controller="User" asp-action="AdminUserList">Admin User List</a></li>
+                <li class="breadcrumb-item">Create New Account</li>
+            </ol>
+        </nav>
+    </div>
+}
+
+<div class="card shadow">
+    <div class="card-body p-4">
+        <div class="row pt-3">
+            <div class="col-md-12">
+                <form id="registerForm" class="row" asp-route-returnUrl="@Model.ReturnUrl" method="post" enctype="multipart/form-data">
+                    <h3 class="border-bottom pb-3 mb-4 text-secondary text-center">@(User.IsInRole(StaticDetails.ROLE_ADMIN) ? "Create admin account." : "Create new account.")</h3>
+                    <div asp-validation-summary="ModelOnly" class="text-danger" role="alert"></div>
+
+                    <p class="divider-text d-flex text-secondary "><b>BRANCH DETAILS</b></p>
+                    <div class="form-floating py-2 col-6">
+                        <select asp-for="Input.BranchId" asp-items="@Model.Input.branch" class="form-control border-0 shadow">
+                            <option disabled selected>Select Branch</option>
+                        </select>
+                        <span asp-validation-for="Input.BranchId" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6" id="classId" @*style="display: none;"*@>
+                        <select asp-for="Input.ClassId" asp-items="@Model.Input.branchClass" class="form-control border-0 shadow">
+                            <option id="optionClassId" disabled selected>Select Class</option>
+                        </select>
+                        <span asp-validation-for="Input.ClassId" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-12">
+                        <input value="@DateTime.Now.ToString("yyyy-MM-dd")" disabled type="date" asp-for="Input.RegistrationDate" class="form-control border-0 shadow" aria-required="true" placeholder="Enter registration date" />
+                        <label asp-for="Input.RegistrationDate" class="ms-2 text-muted"></label>
+                    </div>
+                    <p class="divider-text d-flex text-secondary "><b>MEMBER DETAILS</b></p>
+                    
+                    
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.FirstName" class="form-control border-0 shadow" aria-required="true" autocomplete="name" placeholder="Enter firstname" />
+                        <label asp-for="Input.FirstName" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.FirstName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.LastName" class="form-control border-0 shadow" aria-required="true" placeholder="Enter lastname" />
+                        <label asp-for="Input.LastName" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.LastName" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <select asp-for="Input.GenderId" asp-items="Model.Input.gender" class="form-control border-0 shadow">
+                            <option disabled selected>Select Gender</option>
+                        </select>
+                        <span asp-validation-for="Input.GenderId" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input value="" type="date" asp-for="Input.Birthdate" class="form-control border-0 shadow" aria-required="true" placeholder="Enter birthdate" />
+                        <label asp-for="Input.Birthdate" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.Birthdate" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input value="" asp-for="Input.MobileNo" class="form-control border-0 shadow" aria-required="true" placeholder="Enter mobile no." />
+                        <label asp-for="Input.MobileNo" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.MobileNo" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.UserName" class="form-control border-0 shadow" autocomplete="username" aria-required="true" placeholder="Enter username" />
+                        <label asp-for="Input.UserName" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.UserName" class="text-danger"></span>
+                        @*<input asp-for="Input.Email" class="form-control border-0 shadow" autocomplete="username" aria-required="true" placeholder="Enter username" />
+                        <label asp-for="Input.Email" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.Email" class="text-danger"></span>*@
+                    </div>
+                    
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.Password" class="form-control border-0 shadow" autocomplete="new-password" aria-required="true" placeholder="Enter a password" />
+                        <label asp-for="Input.Password" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.Password" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.ConfirmPassword" class="form-control border-0 shadow" autocomplete="new-password" aria-required="true" placeholder="Enter new password" />
+                        <label asp-for="Input.ConfirmPassword" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.ConfirmPassword" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-12">
+                        <select asp-for="Input.ReligionId" asp-items="@Model.Input.religion" class="form-control border-0 shadow">
+                            <option disabled selected>Select Religion</option>
+                        </select>
+                        <span asp-validation-for="Input.ReligionId" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-12">
+                        <input asp-for="Input.PresentAddress" class="form-control border-0 shadow" aria-required="true" placeholder="Enter PresentAddress" />
+                        <label asp-for="Input.PresentAddress" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.PresentAddress" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.City" class="form-control border-0 shadow" aria-required="true" placeholder="Enter City" />
+                        <label asp-for="Input.City" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.City" class="text-danger"></span>
+                    </div>
+                    <div class="form-floating py-2 col-6">
+                        <input asp-for="Input.Country" class="form-control border-0 shadow" aria-required="true" placeholder="Enter Country" />
+                        <label asp-for="Input.Country" class="ms-2 text-muted"></label>
+                        <span asp-validation-for="Input.Country" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-floating py-2 col-12">
+                        <input type="file" name="memberImgFile" id="memberImgFile" class="form-control border-0 shadow" />
+                        <label asp-for="Input.MemberPhotoUrl" class="ms-2"></label>
+                        <span class="badge bg-danger">Note: Only upload jpg/jpeg/png image file.</span>
+                    </div>
+                    @if (!User.IsInRole(StaticDetails.ROLE_ADMIN))
+                    {
+                        <p class="divider-text d-flex text-secondary"><b>PROOF OF PAYMENT</b></p>
+                        <p><b><i>Note: How to pay. Click <a href="#" onclick="return HowToPay();">here.</a></i></b></p>
+
+                        <div class="form-floating py-2 col-12">
+                            <input asp-for="Input.PaymentRefNo" class="form-control border-0 shadow" aria-required="true" placeholder="Enter PaymentRefNo" />
+                            <label asp-for="Input.PaymentRefNo" class="ms-2 text-muted"></label>
+                            <span asp-validation-for="Input.PaymentRefNo" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating py-2 col-6">
+                            <select asp-for="Input.PaymentMethodId" asp-items="@Model.Input.paymentMethod" class="form-control border-0 shadow">
+                                <option disabled selected>Select Payment Method</option>
+                            </select>
+                            <span asp-validation-for="Input.PaymentMethodId" class="text-danger"></span>
+                        </div>
+                        <div class="form-floating py-2 col-6">
+                            <input type="file" name="proofOfPaymentImgFile" id="proofOfPaymentImgFile" class="form-control border-0 shadow" />
+                            <label class="ms-2">Proof of Payment</label>
+                            <span class="badge bg-danger">Note: Only upload jpg/jpeg/png image file.</span>
+                        </div>
+                        <div class="col-12">
+                            <button onclick="return ValidateInput()" id="registerSubmit" type="submit" class="w-100 btn btn-lg btn-primary">Register</button>
+                        </div>
+                    }
+                    else
+                    {
+                        <div class="form-floating py-2 col-12">
+                            <select disabled asp-for="Input.Role" asp-items="@Model.Input.roleList" class="form-select" class="form-control border-0 shadow">
+                                <option selected>Admin</option>
+                            </select>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <button id="registerSubmit" type="submit" class="w-100 btn btn-primary">Register</button>
+                        </div>
+                        <div class="col-6 col-md-3">
+                            <a asp-area="Admin" asp-controller="User" asp-action="AdminUserList" class="w-100 btn btn-outline-primary form-control">
+                                <i class="bi bi-backspace"></i> &nbspBack
+                            </a>
+                        </div>
+                    }
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+
+    <script>
+        $(document).ready(function()
+        {
+            $('#Input_BranchId').change(function () {
+                var value = $('#Input_BranchId Option:Selected').val();
+                var selection = $('#Input_BranchId Option:Selected').text();
+
+                //if (selection == 'Select Branch')
+                //{
+                //    $('#classId').hide();
+                //}
+                //else
+                //{
+                    //$('#classId').show();
+
+                    $.ajax({
+                        type: "GET",
+                        url: "/Admin/Class/GetClass",
+                        data: { branchId: value },
+                        contentType: "application/json",
+                        success: function (data) {
+                            $('option[id="optionClassId"]').remove();
+
+                            $('#Input_ClassId').append(`<option id="optionClassId" disabled selected>Select Class</option>`);
+                            $.each(data.data, function (index, value) {
+                                $('#Input_ClassId').append(`<option id="optionClassId" value="${value.value}">${value.text}</option>`);
+                            });
+                        }
+                    });
+                //}
+               
+            });
+        });
+
+        function HowToPay(){
+            Swal.fire({
+                title: 'Please complete all the data required.',
+                text: ` Send registration fee to Gcash:
+                        09926644574 - Javier Garde. And input the Reference Number on the field below.`,
+                width: 600,
+                padding: '3em',
+                color: '#716add',
+                //background: '#fff url(/images/trees.png)',
+                backdrop: `
+                        rgba(0,0,123,0.4)
+                        url("/img/customer/nyan-cat.gif")
+                        left top
+                        no-repeat
+                        `
+            })
+        }
+        function ValidateInput() {
+            if (document.getElementById("memberImgFile").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Please upload a Member Photo!'
+                });
+                return false;
+            }
+            else if (document.getElementById("proofOfPaymentImgFile").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Please upload a Proof Of Payment!'
+                });
+                return false;
+            }
+            else if (document.getElementById("Input_PaymentRefNo").value == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Payment Reference No. is required.'
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}

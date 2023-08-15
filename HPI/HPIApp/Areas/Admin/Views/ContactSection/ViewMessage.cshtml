@@ -1,0 +1,100 @@
+﻿@model ContactSection
+
+<partial name="Admin/_AdminSidebar" />
+
+<div class="pagetitle">
+    <h1>View Message</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Dashboard" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item"><a asp-controller="ContactSection" asp-action="Index">Contact Section</a></li>
+            <li class="breadcrumb-item">View Message</li>
+        </ol>
+    </nav>
+</div>
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow border-0 w-75 top-50 start-50 translate-middle">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <h5 class="card-title">Inquiry</h5>
+                        </div>
+                    </div>
+
+                    <section class="section">
+                        <form method="post" asp-action="SendMessage">
+                            <div class="row">
+                                <div class="col-12">
+                                    <div class="form-floating py-2 col-12">
+                                        <input readonly asp-for="Name" class="form-control border-0 shadow" placeholder="Enter Name" />
+                                        <label asp-for="Name" class="ms-2 text-muted"></label>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input readonly asp-for="Email" class="form-control border-0 shadow" placeholder="Enter Email" />
+                                        <label asp-for="Email" class="ms-2 text-muted"></label>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input readonly asp-for="Subject" class="form-control border-0 shadow" placeholder="Enter Subject" />
+                                        <label asp-for="Subject" class="ms-2 text-muted"></label>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <textarea readonly asp-for="Message" rows="10" class="form-control border-0 shadow"></textarea>
+                                        <label asp-for="Message" class="ms-2 text-muted"></label>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <label asp-for="Reply" class="ms-2 text-muted"></label>
+                                        <textarea asp-for="Reply" id="replyId" rows="3" class="form-control border-0 shadow reply"></textarea>
+                                    </div>
+                                    <div class="row pt-2">
+                                        <div class="col-6 col-md-3">
+                                            <button onclick="return ValidateReply()" type="submit" class="btn btn-primary form-control">
+                                                <i class="bi bi-plus-circle"></i> &nbspReply
+                                            </button>
+                                        </div>
+                                        <div class="col-6 col-md-3">
+                                            <a asp-controller="ContactSection" asp-action="Index" class="btn btn-outline-primary form-control">
+                                                <i class="bi bi-backspace"></i> &nbspBack
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"></partial>
+    <script>
+        tinymce.init({
+            selector: 'textarea.reply',
+            toolbar: 'undo redo | blocks fontfamily fontsize | bold italic underline strikethrough | addcomment showcomments | spellcheckdialog a11ycheck typography | align lineheight | checklist numlist bullist indent outdent | emoticons charmap',
+            tinycomments_mode: 'embedded',
+            tinycomments_author: 'Author name',
+            mergetags_list: [
+                { value: 'First.Name', title: 'First Name' },
+                { value: 'Email', title: 'Email' },
+            ]
+        });
+
+        function ValidateReply() {
+            if (tinyMCE.get('replyId').getContent() == "") {
+                Swal.fire({
+                    icon: 'error',
+                    title: 'Oops...',
+                    text: 'Reply message is required!'
+                });
+                return false;
+            }
+            return true;
+        }
+    </script>
+}

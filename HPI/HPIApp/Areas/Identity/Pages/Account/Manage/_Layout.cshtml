@@ -1,0 +1,43 @@
+﻿@using HPIApp.Models;
+@{
+    if (ViewData.TryGetValue("ParentLayout", out var parentLayout) && parentLayout !=  null)
+    {
+        Layout = parentLayout.ToString();
+    }
+    else
+    {
+        if(User.IsInRole(StaticDetails.ROLE_ADMIN))
+        {
+            Layout = "/Views/Shared/Admin/_AdminLayout.cshtml";
+        }
+        else
+        {
+            Layout = "/Views/Shared/Customer/_InnerLayout.cshtml";
+        }
+    }
+
+    @if (User.IsInRole(StaticDetails.ROLE_ADMIN))
+    {
+        ViewData["_AdminSidebar"] = new _AdminSidebar { view = "", navItem = "" };
+        <partial name="Admin/_AdminSidebar" />
+    }
+}
+
+<h1>Manage your account</h1>
+
+<div>
+    <h2>Change your account settings</h2>
+    <hr />
+    <div class="row">
+        <div class="col-md-3">
+            <partial name="_ManageNav" />
+        </div>
+        <div class="col-md-9">
+            @RenderBody()
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @RenderSection("Scripts", required: false)
+}

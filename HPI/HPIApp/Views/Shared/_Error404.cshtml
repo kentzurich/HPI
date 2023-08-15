@@ -1,0 +1,19 @@
+﻿@{
+    Layout = "_ErrorLayout.cshtml";
+}
+
+<div class="container">
+    <section class="section error-404 min-vh-100 d-flex flex-column align-items-center justify-content-center">
+        <h1>404</h1>
+        <h2>The page you are looking for doesn't exist.</h2>
+        @if (User.IsInRole(StaticDetails.ROLE_CUSTOMER))
+        {
+            <a class="btn" asp-area="Customer" asp-controller="Dashboard" asp-action="Index">Back to dashboard</a>
+        }
+        else
+        {
+            <a class="btn" asp-area="Admin" asp-controller="Dashboard" asp-action="Index">Back to dashboard</a>
+        }
+        <img src="/img/admin/not-found.svg" class="img-fluid py-5" alt="Page Not Found">
+    </section>
+</div>

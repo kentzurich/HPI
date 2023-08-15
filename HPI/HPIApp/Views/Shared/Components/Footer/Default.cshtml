@@ -1,0 +1,51 @@
+﻿@model CustomerIndexVM
+
+<!-- ======= Footer ======= -->
+<footer id="footer">
+
+    <div class="footer-top">
+        <div class="container">
+            <div class="row">
+
+                <div class="col-lg-3 col-md-6 footer-contact">
+                    <h3>@Model.logo.textLogo</h3>
+                    <p> @Model.companyDetails.Address<br><br>
+                    <strong>Phone:</strong> @Model.companyDetails.PhoneNo<br>
+                    <strong>Email:</strong> @Model.companyDetails.Email<br>
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container d-md-flex py-4">
+
+        <div class="me-md-auto text-center text-md-start">
+            <div class="copyright">
+                &copy; 2023 Copyright <strong><span>@Model.logo.textLogo</span></strong>. All Rights Reserved
+            </div>
+        </div>
+        <div class="social-links text-center text-md-right pt-3 pt-md-0">
+             @if (!String.IsNullOrEmpty(Model.companyDetails.twitterUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.twitterUrl" class="twitter"><i class="bx bxl-twitter"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.facebookUrl))
+            {
+                <a target="_blank"  href="@Model.companyDetails.facebookUrl" class="facebook"><i class="bx bxl-facebook"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.instagramUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.instagramUrl" class="instagram"><i class="bx bxl-instagram"></i></a>
+            }
+            @if (!String.IsNullOrEmpty(Model.companyDetails.linkedinUrl))
+            {
+                <a target="_blank" href="@Model.companyDetails.linkedinUrl" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+            }
+        </div>
+    </div>
+</footer><!-- End Footer -->
+
+<div id="preloader"></div>
+<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>

@@ -1,0 +1,111 @@
+﻿@model UserTransactionVM
+
+<partial name="Admin/_AdminSidebar" />
+
+<div class="pagetitle">
+    <h1>Registration Approval</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Dashboard" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item"><a asp-controller="Registration" asp-action="Index">Registration List</a></li>
+            <li class="breadcrumb-item">Registration Approval</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <h5 class="card-title">Registration Approval</h5>
+                        </div>
+                    </div>
+
+                    <section class="section">
+                        <form class="row" method="post" asp-action="RegistrationApproval">
+                            <input asp-for="transaction.Id" hidden />
+                            <input asp-for="transaction.TransactionType" hidden />
+                            <input asp-for="transaction.PaymentMethodId" hidden />
+                            <input asp-for="transaction.PaymentProofUrl" hidden />
+                            <input asp-for="transaction.ApplicationUserId" hidden />
+                            <div class="row">
+                                <div class="w-100 d-flex aligns-items-end justify-content-end my-2">
+                                    <img src="@Model.applicationUser.MemberPhotoUrl" id="imgDisplay" style="border-radius:5px; border:1px solid #bbb9b9; width: 200px; height: 200px;" />
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input readonly asp-for="applicationUser.FirstName" class="form-control border-0 shadow" placeholder="Enter FirstName" />
+                                    <label asp-for="applicationUser.FirstName" class="ms-2 text-muted"></label>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input readonly asp-for="applicationUser.LastName" class="form-control border-0 shadow" placeholder="Enter LastName" />
+                                    <label asp-for="applicationUser.LastName" class="ms-2 text-muted"></label>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input readonly asp-for="transaction.PaymentRefNo" class="form-control border-0 shadow" placeholder="Enter PaymentRefNo" />
+                                    <label asp-for="transaction.PaymentRefNo" class="ms-2 text-muted"></label>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <div class="col-6 m-2">
+                                        <a href="#" class="btn btn-primary form-control pop">
+                                            <i class="ri-search-2-line"></i> &nbspView Payment
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input asp-for="transaction.Amount" class="form-control border-0 shadow" placeholder="Enter Amount" />
+                                    <label asp-for="transaction.Amount" class="ms-2 text-muted"></label>
+                                    <span asp-validation-for="transaction.Amount" class="text-danger"></span>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input readonly asp-for="paymentMethod.Name" class="form-control border-0 shadow" placeholder="Enter Name" />
+                                    <label asp-for="paymentMethod.Name" class="ms-2 text-muted"></label>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <select asp-for="transaction.Status" asp-items="@Model.userStatus" class="form-control border-0 shadow">
+                                        <option disabled selected>Select Status</option>
+                                    </select>
+                                    <span asp-validation-for="transaction.Status" class="text-danger"></span>
+                                </div>
+                                <div class="form-floating py-2 col-6">
+                                    <input readonly type="date" asp-for="transaction.TransactionDate" class="form-control border-0 shadow" placeholder="Enter TransactionDate" />
+                                    <label asp-for="transaction.TransactionDate" class="ms-2 text-muted"></label>
+                                </div>
+                                <div class="row pt-2">
+                                    <div class="col-6 col-md-3">
+                                        <button type="submit" class="btn btn-primary form-control">
+                                            <i class="bi bi-plus-circle"></i> &nbspUpdate
+                                        </button>
+                                    </div>
+                                    <div class="col-6 col-md-3">
+                                        <a asp-controller="Registration" asp-action="Index" class="btn btn-outline-primary form-control">
+                                            <i class="bi bi-backspace"></i> &nbspBack
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="modal fade" id="imagemodal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+            <div class="modal-body">
+                <img src="@Model.transaction.PaymentProofUrl" class="imagepreview" style="width: 100%;">
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"></partial>
+    <script src="~/js/admin/registrationtransaction.js"></script>
+}

@@ -1,0 +1,74 @@
+﻿@model CustomerIndexVM
+
+<!-- ======= Contact Section ======= -->
+<section id="contact" class="contact">
+    <div class="container">
+
+        <div class="section-title">
+            <h2>Contact</h2>
+        </div>
+    </div>
+
+    <div>
+        <iframe style="border:0; width: 100%; height: 350px;" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3612.153089227167!2d121.13417132915704!3d15.629524036959644!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3390cc5718e395df%3A0x76ee7b2815e46464!2sPalo%20Maria%20(Pob.)%2C%20Bongabon%2C%20Nueva%20Ecija!5e1!3m2!1sen!2sph!4v1683880795988!5m2!1sen!2sph" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+
+    <div class="container">
+        <div class="row mt-5">
+
+            <div class="col-lg-4">
+                <div class="info">
+                    <div class="address">
+                        <i class="bi bi-geo-alt"></i>
+                        <h4>Location:</h4>
+                        <p>@Model.companyDetails.Address</p>
+                    </div>
+
+                    <div class="email">
+                        <i class="bi bi-envelope"></i>
+                        <h4>Email:</h4>
+                        <p>@Model.companyDetails.Email</p>
+                    </div>
+
+                    <div class="phone">
+                        <i class="bi bi-phone"></i>
+                        <h4>Call:</h4>
+                        <p>@Model.companyDetails.PhoneNo</p>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="col-lg-8 mt-5 mt-lg-0">
+
+                <form asp-area="Customer" asp-controller="Home" asp-action="InsertContact" method="post">
+                    <div class="row">
+                        <div class="col-md-6 form-group">
+                            <input asp-for="contactSection.Name" type="text" class="form-control" id="name" placeholder="Your Name">
+                            <span asp-validation-for="contactSection.Name" class="text-danger"></span>
+                        </div>
+                        <div class="col-md-6 form-group mt-3 mt-md-0">
+                            <input asp-for="contactSection.Email" type="email" class="form-control" id="email" placeholder="Your Email">
+                            <span asp-validation-for="contactSection.Email" class="text-danger"></span>
+                        </div>
+                    </div>
+                    <div class="form-group mt-3">
+                        <input asp-for="contactSection.Subject" type="text" class="form-control" id="subject" placeholder="Subject">
+                        <span asp-validation-for="contactSection.Subject" class="text-danger"></span>
+                    </div>
+                    <div class="form-group mt-3">
+                        <textarea asp-for="contactSection.Message" class="form-control" rows="5" placeholder="Message"></textarea>
+                        <span asp-validation-for="contactSection.Message" class="text-danger"></span>
+                    </div>
+                    <div class="text-center py-2">
+                        <button onclick="return SendButton();" type="submit" class="contactSection">Send Message</button>
+                    </div>
+                </form>
+
+            </div>
+
+        </div>
+
+    </div>
+</section><!-- End Contact Section -->

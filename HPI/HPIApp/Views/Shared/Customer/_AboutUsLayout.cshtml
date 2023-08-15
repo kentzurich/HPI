@@ -1,0 +1,47 @@
+﻿@model CustomerIndexVM
+
+<!-- ======= About Section ======= -->
+<section id="about" class="about">
+    <div class="container-fluid">
+
+        <div class="row">
+            @if(string.IsNullOrEmpty(Model.aboutUsSection.VideoBoxUrl))
+            {
+                <div class="col-xl-5 col-lg-6 d-flex justify-content-center align-items-stretch position-relative" style="background: url('https://placehold.co/1024x692/png') center center no-repeat; background-size: cover; min-height: 500px;">
+                    <a href="@Model.aboutUsSection.VideoUrl" class="glightbox play-btn mb-4"></a>
+                </div>
+            }
+            else
+            {
+                <div class="col-xl-5 col-lg-6 d-flex justify-content-center align-items-stretch position-relative" style="background: url('@Model.aboutUsSection.VideoBoxUrl.Replace("\\","/")') center center no-repeat; background-size: cover; min-height: 500px;">
+                    <a href="@Model.aboutUsSection.VideoUrl" class="glightbox play-btn mb-4"></a>
+                </div>
+            }
+
+            <div class="col-xl-7 col-lg-6 icon-boxes d-flex flex-column align-items-stretch justify-content-center py-5 px-lg-5">
+                <h3>@Model.aboutUsSection.mainContentTitle</h3>
+                <p>@Model.aboutUsSection.mainContentDescription</p>
+
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-fingerprint"></i></div>
+                    <h4 class="title"><a href="">@Model.aboutUsSection.contentTitle_1</a></h4>
+                    <p class="description">@Model.aboutUsSection.contentDescription_1</p>
+                </div>
+
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-gift"></i></div>
+                    <h4 class="title"><a href="">@Model.aboutUsSection.contentTitle_2</a></h4>
+                    <p class="description">@Model.aboutUsSection.contentDescription_2</p>
+                </div>
+
+                <div class="icon-box">
+                    <div class="icon"><i class="bx bx-atom"></i></div>
+                    <h4 class="title"><a href="">@Model.aboutUsSection.contentTitle_3</a></h4>
+                    <p class="description">@Model.aboutUsSection.contentDescription_3</p>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+</section><!-- End About Section -->

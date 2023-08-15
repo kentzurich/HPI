@@ -1,0 +1,16 @@
+﻿@model UserTransactionVM
+
+@if(Model.transaction.Status == StaticDetails.USERSTATUS_PENDING)
+{
+    <div class="container">
+        <section class="section error-404 min-vh-100 d-flex flex-column align-items-center justify-content-center">
+            <h1>Hi, @User.Identity.Name</h1>
+            <h2>Your account is not yet approved. Wait for 1-3 days to approve your account.</h2>
+            <img src="/img/admin/not-found.svg" class="img-fluid py-5" alt="Account not yet approved.">
+        </section>
+    </div>
+}
+else
+{
+    <p>Account approved.</p>
+}

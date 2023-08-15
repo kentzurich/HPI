@@ -1,0 +1,18 @@
+﻿@model CustomerIndexVM
+
+@if (!string.IsNullOrEmpty(Model.eventsSection.EventDescription))
+{
+    <!-- ======= Events Section ======= -->
+    <section id="events" class="events section-bg">
+        <div class="container">
+
+            <div class="section-title">
+                <h2>Events</h2>
+                <p>@Model.eventsSection.EventDescription</p>
+            </div>
+
+        </div>
+    </section>
+
+    <!-- End Events Section -->
+}

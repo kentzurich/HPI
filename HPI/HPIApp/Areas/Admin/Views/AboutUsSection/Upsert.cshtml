@@ -1,0 +1,124 @@
+﻿@model AboutUsSection
+
+<partial name="Admin/_AdminSidebar" />
+
+<div class="pagetitle">
+    <h1>About Us Section</h1>
+    <nav>
+        <ol class="breadcrumb">
+            <li class="breadcrumb-item"><a asp-controller="Dashboard" asp-action="Index">Home</a></li>
+            <li class="breadcrumb-item">Update About Us Section</li>
+        </ol>
+    </nav>
+</div><!-- End Page Title -->
+
+<section class="section">
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="card shadow border-0 w-75 top-50 start-50 translate-middle">
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-6">
+                            <h5 class="card-title">Update About Us Section</h5>
+                        </div>
+                    </div>
+
+                    <section class="section">
+                        <form method="post" asp-action="Upsert" enctype="multipart/form-data">
+                            <input asp-for="Id" hidden />
+                            <div class="row">
+                                <div class="form-floating col-12 d-flex aligns-items-center justify-content-center">
+
+                                    <div class="w-50 d-flex aligns-items-center justify-content-center">
+                                        @if (!String.IsNullOrEmpty(Model.VideoBoxUrl))
+                                        {
+                                            <img src="@Model.VideoBoxUrl" id="imgDisplay" style="border-radius:5px; border:1px solid #bbb9b9; width: 600px; height: 300px;" />
+                                        }
+                                        else 
+                                        {
+                                            <img src="https://placehold.co/1024x692/png" id="imgDisplay" style="border-radius:5px; border:1px solid #bbb9b9; width: 600px; height: 300px;" />
+                                        }
+                                    </div>
+
+                                </div>
+                                <div class="col-12">
+                                    <div class="form-floating py-2 col-12">
+                                        <input onchange="return DisplayImg()" type="file" name="imgFile" id="imgFile" class="form-control border-0 shadow" />
+                                        <label class="ms-2 text-muted">Video Box Image</label>
+                                        <span class="badge bg-danger">Note: size of an images must be 1024x692.</span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="mainContentTitle" class="form-control border-0 shadow" placeholder="Enter mainContentTitle" />
+                                        <label asp-for="mainContentTitle" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="mainContentTitle" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="VideoUrl" rows="3" class="form-control border-0 shadow" placeholder="Enter VideoUrl" />
+                                        <label asp-for="VideoUrl" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="VideoUrl" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <textarea asp-for="mainContentDescription" rows="3" class="form-control border-0 shadow" placeholder="Enter mainContentDescription"></textarea>
+                                        <label asp-for="mainContentDescription" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="mainContentDescription" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="contentTitle_1" class="form-control border-0 shadow" placeholder="Enter contentTitle_1" />
+                                        <label asp-for="contentTitle_1" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentTitle_1" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <textarea asp-for="contentDescription_1" rows="3" class="form-control border-0 shadow" placeholder="Enter contentDescription_1"></textarea>
+                                        <label asp-for="contentDescription_1" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentDescription_1" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="contentTitle_2" class="form-control border-0 shadow" placeholder="Enter contentTitle_2" />
+                                        <label asp-for="contentTitle_2" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentTitle_2" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <textarea asp-for="contentDescription_2" rows="3" class="form-control border-0 shadow" placeholder="Enter contentDescription_2"></textarea>
+                                        <label asp-for="contentDescription_2" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentDescription_2" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <input asp-for="contentTitle_3" class="form-control border-0 shadow" placeholder="Enter contentTitle_3" />
+                                        <label asp-for="contentTitle_3" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentTitle_3" class="text-danger"></span>
+                                    </div>
+                                    <div class="form-floating py-2 col-12">
+                                        <textarea asp-for="contentDescription_3" rows="3" class="form-control border-0 shadow" placeholder="Enter contentDescription_3"></textarea>
+                                        <label asp-for="contentDescription_3" class="ms-2 text-muted"></label>
+                                        <span asp-validation-for="contentDescription_3" class="text-danger"></span>
+                                    </div>
+                                    <div class="row pt-2">
+                                        <div class="col-6 col-md-3">
+                                            <button type="submit" class="btn btn-primary form-control">
+                                                <i class="bi bi-plus-circle"></i> &nbspUpdate
+                                            </button>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </form>
+                    </section>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+@section Scripts
+{
+    <partial name="_ValidationScriptsPartial"></partial>
+    <script>
+        function DisplayImg() {
+            let img = document.getElementById("imgDisplay");
+            let imgFile = document.getElementById("imgFile");
+
+            if (imgFile.files[0])
+                img.src = URL.createObjectURL(imgFile.files[0]);
+        }
+    </script>
+}

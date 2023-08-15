@@ -1,0 +1,50 @@
+﻿@model CustomerIndexVM
+
+    @await Component.InvokeAsync("TopBar")
+
+    <!-- ======= Header ======= -->
+    <header id="header" class="fixed-top">
+        <div class="container d-flex align-items-center">
+
+            @await Component.InvokeAsync("Logo")    
+
+            <nav id="navbar" class="navbar order-last order-lg-0">
+                <ul>
+                    <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
+                    <li><a class="nav-link scrollto" href="#about">About Us</a></li>
+                    <li><a class="nav-link scrollto" href="#events">Events</a></li>
+                    <li><a class="nav-link scrollto" href="#faq">FAQ</a></li>
+                    <li><a class="nav-link scrollto" href="#gallery">Gallery</a></li>
+                    <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
+                </ul>
+                <i class="bi bi-list mobile-nav-toggle"></i>
+            </nav><!-- .navbar -->
+            @if (!User.IsInRole(StaticDetails.ROLE_ADMIN) && !User.IsInRole(StaticDetails.ROLE_CUSTOMER))
+            {
+                <partial name="_LoginPartial" />
+            }
+        </div>
+    </header><!-- End Header -->
+    <!-- ======= Hero Section ======= -->
+    @if(String.IsNullOrEmpty(Model.heroSection.backgroundImgUrl))
+    {
+        <section id="hero" class="d-flex align-items-center" style="background: url('https://placehold.co/1920x846/png') top center; background-attachment: fixed;">
+            <div class="container">
+                <h1>HEADER 1</h1>
+                <h2>HEADER 2</h2>
+                <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            </div>
+        </section>
+    
+    }
+    else
+    {
+        <section id="hero" class="d-flex align-items-center" style="background: url('@Model.heroSection.backgroundImgUrl.Replace("\\","/")') top center; background-attachment: fixed;">
+            <div class="container">
+                <h1>@Model.heroSection.Header1</h1>
+                <h2>@Model.heroSection.Header2</h2>
+                <a href="#about" class="btn-get-started scrollto">Get Started</a>
+            </div>
+        </section>
+    }
+    <!-- End Hero -->
